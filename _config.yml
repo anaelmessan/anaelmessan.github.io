@@ -194,6 +194,7 @@ exclude:
   #Edited
   - _bibliography/
   - _pages/publications.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
