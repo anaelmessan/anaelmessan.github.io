@@ -199,6 +199,9 @@ exclude:
   #To add back later
   - _projects/
   - _pages/projects.md
+  - _includes/repository/
+  - _pages/repositories.md
+
 keep_files:
   - CNAME
   - .nojekyll
